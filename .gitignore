@@ -1,0 +1,12 @@
+# Ignore the data file (if too large)
+data/master_economics.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore local environment
+.env
